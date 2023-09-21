@@ -24,7 +24,8 @@ Loading...<br>
 -----------
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#%EC%96%B8%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%9F%89-%ED%86%B5%EA%B3%84 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingyeongKim0708)](https://github.com/MingyeongKim0708/github-readme-stats) 　 ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingyeongKim0708&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingyeongKim0708)](https://github.com/MingyeongKim0708/github-readme-stats) 　
+![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingyeongKim0708&show_icons=true&theme=vue)
 
 
 
