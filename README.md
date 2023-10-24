@@ -12,6 +12,9 @@ Loading...<br>
 -----------
 <!-- https://simpleicons.org/ -->
 ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
 <br>
