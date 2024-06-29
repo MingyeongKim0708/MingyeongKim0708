@@ -48,9 +48,9 @@
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200)
 
 
-<-- 메모 -->
+<!-- 메모 -->
 
-<-- 가운데정렬
+<!-- 가운데정렬
 <p align="center">
 </p>
 -->
