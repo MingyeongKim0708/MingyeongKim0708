@@ -42,7 +42,9 @@
 ✨Works
 -----------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KKM96&repo=houseProject)](https://github.com/KKM96/houseProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myoungsuk&repo=DadokDadok)](https://github.com/KKM96/houseProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myoungsuk&repo=DadokDadok)](https://github.com/myoungsuk/DadokDadok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=SsafyRephoto)](https://github.com/MingyeongKim0708/SsafyRephoto)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200)
