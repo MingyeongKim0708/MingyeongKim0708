@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=MG's%20Github&animation=twinkling&fontSize=45&fontAlign=81&fontAlignY=30&desc=To%20Infinity,%20and%20Beyond!&descSize=20&descAlign=83&descAlignY=45)
+
 ### 🍀 Hi! This is MG
 - 🎓 Currently participating in **SSAFY 12th**
 - 🔭 I’m currently working on [REPHOTO](https://github.com/MingyeongKim0708/SsafyRephoto)
@@ -25,7 +27,7 @@
 
 ### 🛠 Tech Stack
 <details>
-<summary>Here</summary>
+<summary>🚀🚀🚀</summary>
   
 #### Programming Languages
 
@@ -72,3 +74,5 @@
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Jira Badge">
 
 </details>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200)
