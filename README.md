@@ -1,110 +1,74 @@
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=MG's%20Github&animation=twinkling&fontSize=45&fontAlign=81&fontAlignY=30&desc=To%20Infinity,%20and%20Beyond!&descSize=20&descAlign=83&descAlignY=45)
+### 🍀 Hi! This is MG
+- 🎓 Currently participating in **SSAFY 12th**
+- 🔭 I’m currently working on [REPHOTO](https://github.com/MingyeongKim0708/SsafyRephoto)
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" style="vertical-align: middle;"> 
+- 📌 My main skills are <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="vertical-align: middle;"> 
+- 📫 How to reach me: kimmg0708@gmail.com
 
-
-✨ Contact
-===========
-<a href="mailto:kimmg0708@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kang.myoungsuk.0212@gmail.com"/></a>
-
-<br><br><br>
-
-✨Skills
------------
-<!-- https://simpleicons.org/ -->
-![java](https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+
+### 🎯 My Github
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MingyeongKim0708&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true&rank_icon=github" alt="MG's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingyeongKim0708&layout=compact&theme=shadow_green&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+### 📂 Works
+
+| <a href="https://github.com/KKM96/houseProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KKM96&repo=houseProject&theme=shadow_green&hide_border=true&rank_icon=github" alt="houseProject" /></a> | <a href="https://github.com/myoungsuk/DadokDadok"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myoungsuk&repo=DadokDadok&theme=shadow_green&hide_border=true&rank_icon=github" alt="DadokDadok" /></a> |
+| ------------- | ------------- |
+| <a href="https://github.com/MingyeongKim0708/SsafyRephoto"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=SsafyRephoto&theme=shadow_green&hide_border=true&rank_icon=github" alt="houseProject" /></a> | <div style="color:green; font-size:0.8rem; font-family:Consolas" align="center">What's next?</div> |
+
 <br>
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-<br>
-![AWS](https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white)
-<br><br><br>
-
-✨Github
------------
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#%EC%96%B8%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%9F%89-%ED%86%B5%EA%B3%84 -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MingyeongKim0708)](https://github.com/MingyeongKim0708/github-readme-stats) 　
-![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MingyeongKim0708&show_icons=true&theme=vue)
-
-<br><br><br>
 
 
+### 🛠 Tech Stack
+<details>
+<summary>Here</summary>
+  
+#### Programming Languages
 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=yellow" alt="Python Badge">
 
+#### Backend
 
-✨Works
------------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KKM96&repo=houseProject)](https://github.com/KKM96/houseProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myoungsuk&repo=DadokDadok)](https://github.com/myoungsuk/DadokDadok)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=SsafyRephoto)](https://github.com/MingyeongKim0708/SsafyRephoto)
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 
+#### Frontend
 
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200)
+#### Database
 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 
-<!-- 메모 -->
+#### DevOps & Servers
 
-<!-- 가운데정렬
-<p align="center">
-</p>
--->
+<img src="https://img.shields.io/badge/amazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 
-<!-- 
-마크다운 방식 뱃지 정리
-![C](https://img.shields.io/badge/C-A8B9CC?style=flate&logo=C&logoColor=white)
-![java](https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+#### Version Control & Collaboration
 
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&amp;logo=Gitlab&amp;logoColor=white" alt="Gitlab Badge">
+<img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&amp;logo=Sourcetree&amp;logoColor=white" alt="Sourcetree Badge">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+#### Productivity & Collaboration Tools
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
-![Mybatis](https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white)
+<img src="https://img.shields.io/badge/Notion-white?style=flat-square&amp;logo=Notion&amp;logoColor=black" alt="Notion Badge">
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&amp;logo=Slack&amp;logoColor=white" alt="Slack Badge">
+<img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Jira Badge">
 
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=Serverless&logoColor=white)
-
-다른 모양
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-
-html 방식
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
--->
-
-
-<!--
-**MingyeongKim0708/MingyeongKim0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</details>
