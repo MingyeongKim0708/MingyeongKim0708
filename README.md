@@ -2,8 +2,8 @@
 
 ### 🍀 Hi! This is MG
 - 🎓 Currently participating in **SSAFY 12th**
-- 🔭 I’m currently working on [REPHOTO](https://github.com/MingyeongKim0708/SsafyRephoto)
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" style="vertical-align: middle;"> 
+- 🔭 I’m currently working on **K-ing**. A curated SNS that gathers K-content filming locations using AI.
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" style="vertical-align: middle;"> 
 - 📌 My main skills are <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="vertical-align: middle;"> 
 - 📫 How to reach me: kimmg0708@gmail.com
 
@@ -47,6 +47,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"> 
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
@@ -76,3 +77,6 @@
 </details>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200)
+
+<!-- memo -->
+<!-- https://ohksj77.tistory.com/201 -->
