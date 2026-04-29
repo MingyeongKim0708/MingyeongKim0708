@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=MG's%20Github&animation=twinkling&fontSize=45&fontAlign=81&fontAlignY=30&desc=To%20Infinity,%20and%20Beyond!&descSize=20&descAlign=83&descAlignY=45)
 
 ### 🍀 Hi! This is MG
-- 🎓 Currently participating in **Goorm Surpoters**.
+- 🎓 Currently participating in **Goorm supporters**.
 - 🔭 I’m currently working on **MOA TICKET**.
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 - 📌 My main skills are <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="vertical-align: middle;"> 
