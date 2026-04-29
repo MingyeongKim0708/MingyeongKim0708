@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=MG's%20Github&animation=twinkling&fontSize=45&fontAlign=81&fontAlignY=30&desc=To%20Infinity,%20and%20Beyond!&descSize=20&descAlign=83&descAlignY=45)
 
 ### 🍀 Hi! This is MG
-- 🎓 Currently participating in **SSAFY 12th**
-- 🔭 I’m currently working on **CICA**. AI assistant service for call center agents.
+- 🎓 Currently participating in **Goorm Surpoters**.
+- 🔭 I’m currently working on **MOA TICKET**.
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 - 📌 My main skills are <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="vertical-align: middle;"> 
 - 📫 How to reach me: kimmg0708@gmail.com
@@ -20,6 +20,7 @@
 
 <details>
   <summary>⚡⚡⚡</summary>
+  <a href="[https://github.com/MingyeongKim0708/moa-tickets-backend](https://github.com/MingyeongKim0708/moa-tickets-backend)"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=moa-tickets-backend&theme=shadow_green&hide_border=true&rank_icon=github" alt="moa-tickets-backend" /></a><br/>
   <a href="https://github.com/MingyeongKim0708/CICA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=CICA&theme=shadow_green&hide_border=true&rank_icon=github" alt="CICA" /></a><br/>
   <a href="https://github.com/MingyeongKim0708/COCOA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=COCOA&theme=shadow_green&hide_border=true&rank_icon=github" alt="COCOA" /></a><br/>
   <a href="https://github.com/MingyeongKim0708/K-ing"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=K-ing&theme=shadow_green&hide_border=true&rank_icon=github" alt="K-ing" /></a><br/>
