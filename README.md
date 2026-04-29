@@ -21,9 +21,7 @@
 <details>
   <summary>⚡⚡⚡</summary>
   <a href="[https://github.com/MingyeongKim0708/moa-tickets-backend](https://github.com/MingyeongKim0708/moa-tickets-backend)"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=moa-tickets-backend&theme=shadow_green&hide_border=true&rank_icon=github" alt="moa-tickets-backend" /></a><br/>
-  <a href="https://github.com/MingyeongKim0708/CICA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=CICA&theme=shadow_green&hide_border=true&rank_icon=github" alt="CICA" /></a><br/>
-  <a href="https://github.com/MingyeongKim0708/COCOA"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=COCOA&theme=shadow_green&hide_border=true&rank_icon=github" alt="COCOA" /></a><br/>
-  <a href="https://github.com/MingyeongKim0708/K-ing"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=K-ing&theme=shadow_green&hide_border=true&rank_icon=github" alt="K-ing" /></a><br/>
+  
   <a href="https://github.com/MingyeongKim0708/SsafyRephoto"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MingyeongKim0708&repo=SsafyRephoto&theme=shadow_green&hide_border=true&rank_icon=github" alt="SsafyRephoto" /></a><br/>
   <a href="https://github.com/myoungsuk/DadokDadok"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myoungsuk&repo=DadokDadok&theme=shadow_green&hide_border=true&rank_icon=github" alt="DadokDadok" /></a><br/>
   <a href="https://github.com/KKM96/houseProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KKM96&repo=houseProject&theme=shadow_green&hide_border=true&rank_icon=github" alt="houseProject" /></a>
